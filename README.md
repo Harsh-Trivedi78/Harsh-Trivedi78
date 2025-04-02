@@ -38,9 +38,13 @@
 
 ## 🔥 Projects
 
-- 📚 **[Book Management App](https://github.com/Harsh-Trivedi78/Book-Management-App.git)** - MERN stack CRUD application for managing book records.
-- 🍎 **[Nutrition Meter](https://nutri-116fc.web.app/)** - A React-based web app for tracking daily nutrition intake.
-- 📊 **[Ad Management System](https://github.com/Harsh-Trivedi78/adag)** - A digital advertising management solution using MERN stack.
+🍎 Nutrition Meter - A React-based web app for tracking daily nutrition intake.
+
+📊 Ad Management System - A digital advertising management solution using MERN stack.
+
+🏡 Estate Finder - A full-stack real estate platform built with MERN, featuring property listings, authentication, and search functionality. (Replace # with the actual repo link)
+
+📚 Book Management App - MERN stack CRUD application for managing book records.
 
 ---
 
