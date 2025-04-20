@@ -40,8 +40,8 @@
 
 ## 🔥 Projects
 - 🏡 **[Estate Finder](https://github.com/Harsh-Trivedi78/mern-estate)** - A full-stack real estate platform built with MERN, featuring property listings, authentication, and search functionality.
-- 🚗 [Gear Gallery](https://github.com/Harsh-Trivedi78/Gear-Gallery) – A sleek and interactive car showcase web app that allows users to explore cars by model, fuel type, and year using advanced search and filter functionality.
-- 🍎 **[Nutrition Meter](https://nutri-116fc.web.app/)** - A React-based web app for tracking daily nutrition intake.  
+- 🚗 [Gear Gallery](https://gear-gallery-kgab.vercel.app/) – A sleek and interactive car showcase web app that allows users to explore cars by model, fuel type, and year using advanced search and filter functionality. Deployed on Vercel.
+- 🍎 **[Nutrition Meter](https://nutri-116fc.web.app/)** - A React-based web app for tracking daily nutrition intake.Deployed on FireBase.  
 - 📊 **[Ad Management System](https://github.com/Harsh-Trivedi78/adag)** - A digital advertising management solution using the MERN stack.  
 - 📚 **[Book Management App](https://github.com/Harsh-Trivedi78/Book-Management-App.git)** - MERN stack CRUD application for managing book records.  
 
